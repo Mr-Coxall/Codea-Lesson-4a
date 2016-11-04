@@ -1,7 +1,7 @@
 -- Lesson 4a
 
 -- Created by: Mr. Coxall
--- Created on: Oct -2016
+-- Created on: Oct-2017
 -- Created for: ICS2O
 -- This program displays a sprite and it moves around
 
